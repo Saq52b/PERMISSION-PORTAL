@@ -1,0 +1,286 @@
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.exe
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.deps.json
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.runtimeconfig.json
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.runtimeconfig.dev.json
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.pdb
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.csproj.AssemblyReference.cache
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.AssemblyInfoInputs.cache
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.AssemblyInfo.cs
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.csproj.CoreCompileInputs.cache
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\obj\Release\netcoreapp3.1\staticwebassets\NoblePermission.StaticWebAssets.Manifest.cache
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\obj\Release\netcoreapp3.1\staticwebassets\NoblePermission.StaticWebAssets.xml
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\obj\Release\netcoreapp3.1\scopedcss\bundle\NoblePermission.styles.css
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.RazorTargetAssemblyInfo.cache
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.csproj.CopyComplete
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.dll
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.pdb
+C:\Users\TECH QODE\Desktop\NoblePermission\NoblePermissions\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.genruntimeconfig.cache
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.exe
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.deps.json
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.runtimeconfig.json
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.runtimeconfig.dev.json
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.pdb
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.csproj.AssemblyReference.cache
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.AssemblyInfoInputs.cache
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.AssemblyInfo.cs
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.csproj.CoreCompileInputs.cache
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\staticwebassets\NoblePermission.StaticWebAssets.Manifest.cache
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\staticwebassets\NoblePermission.StaticWebAssets.xml
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\scopedcss\bundle\NoblePermission.styles.css
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.RazorTargetAssemblyInfo.cache
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.csproj.CopyComplete
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.dll
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.pdb
+C:\Users\TECH QODE\Desktop\NoblePosPermissions\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.genruntimeconfig.cache
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\appsettings.json
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.StaticWebAssets.xml
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.exe
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.deps.json
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.runtimeconfig.json
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.runtimeconfig.dev.json
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.pdb
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.csproj.AssemblyReference.cache
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.AssemblyInfoInputs.cache
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.AssemblyInfo.cs
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.csproj.CoreCompileInputs.cache
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\staticwebassets\NoblePermission.StaticWebAssets.Manifest.cache
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.RazorTargetAssemblyInfo.cache
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.csproj.CopyComplete
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.dll
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.pdb
+C:\Users\TechQode\Desktop\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.genruntimeconfig.cache
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\appsettings.Development.json
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\appsettings.json
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.exe
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.deps.json
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.runtimeconfig.json
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.runtimeconfig.dev.json
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.pdb
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\BCrypt.Net-Next.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Nancy.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+D:\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.csprojAssemblyReference.cache
+D:\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.AssemblyInfoInputs.cache
+D:\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.AssemblyInfo.cs
+D:\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.csproj.CoreCompileInputs.cache
+D:\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.MvcApplicationPartsAssemblyInfo.cache
+D:\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\staticwebassets\NoblePermission.StaticWebAssets.Manifest.cache
+D:\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\staticwebassets\NoblePermission.StaticWebAssets.xml
+D:\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\scopedcss\bundle\NoblePermission.styles.css
+D:\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.RazorTargetAssemblyInfo.cache
+D:\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.csproj.CopyComplete
+D:\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.dll
+D:\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.pdb
+D:\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.genruntimeconfig.cache
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\appsettings.Development.json
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.StaticWebAssets.xml
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\nlog.config
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\appsettings.json
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.exe
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.deps.json
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.runtimeconfig.json
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.runtimeconfig.dev.json
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NoblePermission.pdb
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\BCrypt.Net-Next.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.PlatformAbstractions.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Nancy.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\Newtonsoft.Json.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NLog.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NLog.Extensions.Logging.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\NLog.Web.AspNetCore.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\System.Runtime.Caching.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\NblePermission\NoblePermission\NoblePermission\bin\Release\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.csproj.AssemblyReference.cache
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.GeneratedMSBuildEditorConfig.editorconfig
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.AssemblyInfoInputs.cache
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.AssemblyInfo.cs
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.csproj.CoreCompileInputs.cache
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.MvcApplicationPartsAssemblyInfo.cache
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.sourcelink.json
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.RazorTargetAssemblyInfo.cache
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\staticwebassets\NoblePermission.StaticWebAssets.Manifest.cache
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\staticwebassets\NoblePermission.StaticWebAssets.Pack.cache
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\staticwebassets\msbuild.NoblePermission.Microsoft.AspNetCore.StaticWebAssets.props
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\staticwebassets\msbuild.build.NoblePermission.props
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.NoblePermission.props
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.NoblePermission.props
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePer.F552B903.Up2Date
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.dll
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.pdb
+C:\NblePermission\NoblePermission\NoblePermission\obj\Release\netcoreapp3.1\NoblePermission.genruntimeconfig.cache

@@ -1,0 +1,82 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <LangVersion>default</LangVersion>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Migrations\20220315071947_InitialPermissionDb.cs" />
+    <Compile Remove="Migrations\20220315071947_InitialPermissionDb.Designer.cs" />
+    <Compile Remove="Migrations\20220315072302_InitialPermissionDb.cs" />
+    <Compile Remove="Migrations\20220315072302_InitialPermissionDb.Designer.cs" />
+    <Compile Remove="Migrations\20220315072409_InitialPermissionDb.cs" />
+    <Compile Remove="Migrations\20220315072409_InitialPermissionDb.Designer.cs" />
+    <Compile Remove="Migrations\20220315072609_InitialPermissionDb.cs" />
+    <Compile Remove="Migrations\20220315072609_InitialPermissionDb.Designer.cs" />
+    <Compile Remove="Migrations\20220315072720_InitialPermissionDb.cs" />
+    <Compile Remove="Migrations\20220315072720_InitialPermissionDb.Designer.cs" />
+    <Compile Remove="Migrations\20220315072828_InitialPermissionDb.cs" />
+    <Compile Remove="Migrations\20220315072828_InitialPermissionDb.Designer.cs" />
+    <Compile Remove="Migrations\20220418100509_AutoCompanyPermission.cs" />
+    <Compile Remove="Migrations\20220418100509_AutoCompanyPermission.Designer.cs" />
+    <Compile Remove="Migrations\20220418101519_AutoCompanyPermission.cs" />
+    <Compile Remove="Migrations\20220418101519_AutoCompanyPermission.Designer.cs" />
+    <Compile Remove="Migrations\20220428090349_PaymentLimit.cs" />
+    <Compile Remove="Migrations\20220428090349_PaymentLimit.Designer.cs" />
+    <Compile Remove="Migrations\20220802122717_whitelabel.cs" />
+    <Compile Remove="Migrations\20220802122717_whitelabel.Designer.cs" />
+    <Compile Remove="Migrations\20220804063559_UpdateWLForm.cs" />
+    <Compile Remove="Migrations\20220804063559_UpdateWLForm.Designer.cs" />
+    <Compile Remove="Migrations\20220809074101_ApplicationNameInWhiteLabeling.cs" />
+    <Compile Remove="Migrations\20220809074101_ApplicationNameInWhiteLabeling.Designer.cs" />
+    <Compile Remove="Migrations\20220810090304_UpdateModelBuilder.cs" />
+    <Compile Remove="Migrations\20220810090304_UpdateModelBuilder.Designer.cs" />
+    <Compile Remove="Migrations\20220830101349_updatewhitelabel.cs" />
+    <Compile Remove="Migrations\20220830101349_updatewhitelabel.Designer.cs" />
+    <Compile Remove="Migrations\20220830103038_updatewhitelabel2.cs" />
+    <Compile Remove="Migrations\20220830103038_updatewhitelabel2.Designer.cs" />
+    <Compile Remove="Migrations\20220915081308_AddFtpAccountDetail.cs" />
+    <Compile Remove="Migrations\20220915081308_AddFtpAccountDetail.Designer.cs" />
+    <Compile Remove="Migrations\20220915081536_AddFtpAccountDetail.cs" />
+    <Compile Remove="Migrations\20220915081536_AddFtpAccountDetail.Designer.cs" />
+    <Compile Remove="Migrations\20220915082622_AddFtpAccountDetail.cs" />
+    <Compile Remove="Migrations\20220915082622_AddFtpAccountDetail.Designer.cs" />
+    <Compile Remove="Migrations\20220915084455_AddFtpAccountDetail.cs" />
+    <Compile Remove="Migrations\20220915084455_AddFtpAccountDetail.Designer.cs" />
+    <Compile Remove="Migrations\20220915102132_AddFtpAccountDetail.cs" />
+    <Compile Remove="Migrations\20220915102132_AddFtpAccountDetail.Designer.cs" />
+    <Compile Remove="Migrations\20220915102326_AddFtpAccountDetail.cs" />
+    <Compile Remove="Migrations\20220915102326_AddFtpAccountDetail.Designer.cs" />
+    <Compile Remove="Migrations\20220915102853_AddFtpAccountDetail.cs" />
+    <Compile Remove="Migrations\20220915102853_AddFtpAccountDetail.Designer.cs" />
+    <Compile Remove="Migrations\20220915103535_WhiteLabeling.cs" />
+    <Compile Remove="Migrations\20220915103535_WhiteLabeling.Designer.cs" />
+    <Compile Remove="Migrations\20220921070458_ColorChangeInWhiteLabeling.cs" />
+    <Compile Remove="Migrations\20220921070458_ColorChangeInWhiteLabeling.Designer.cs" />
+    <Compile Remove="Migrations\20220923111748_applicationColorInWhiteLabeleing.cs" />
+    <Compile Remove="Migrations\20220923111748_applicationColorInWhiteLabeleing.Designer.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\LanguageCoaTemplate\english.js" />
+    <None Include="wwwroot\LanguageCoaTemplate\englishAndArabic.js" />
+    <None Include="wwwroot\LanguageCoaTemplate\englishAndPortugal.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.0.3" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.1">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Nancy" Version="2.0.0" />
+    <PackageReference Include="NLog" Version="5.0.4" />
+    <PackageReference Include="NLog.Extensions.Logging" Version="5.0.4" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="5.1.4" />
+  </ItemGroup>
+
+
+</Project>

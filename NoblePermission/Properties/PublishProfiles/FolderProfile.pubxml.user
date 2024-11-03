@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\TECH QODE\Desktop\NoblePermissionBuild</_PublishTargetUrl>
+    <History>False|2024-09-17T15:54:02.9453396Z||;True|2022-09-01T17:07:02.7571656+04:00||;True|2022-09-01T11:31:18.5150632+04:00||;True|2022-08-31T12:31:04.9906772+04:00||;True|2022-08-31T12:30:40.8497169+04:00||;True|2022-08-31T12:21:14.9303888+04:00||;True|2022-03-21T14:41:14.3467447+04:00||;True|2022-03-15T17:37:39.3022997+04:00||;True|2022-03-15T14:13:44.9759215+04:00||;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
